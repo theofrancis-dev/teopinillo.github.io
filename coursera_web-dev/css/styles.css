@@ -37,9 +37,13 @@ h1,h2 {
 
 .foodLabel {
     width : 150px;
+    /*
     position : relative;
     top : 5px;
-    right : 5px;    
+    right : 5px;  
+    */
+    margin-left : auto;
+    margin-right : 0;  
 }
 
 .chickenLabel {
