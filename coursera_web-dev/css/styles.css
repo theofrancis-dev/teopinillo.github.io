@@ -44,6 +44,7 @@ h1, h2, .menu {
 .section_1 {    
     display : inline-block;    
     background-color: #D4E4F7;
+    margin : 0 auto;
 }
 .chickenLabel {
     background-color: #FC7307;
@@ -53,6 +54,7 @@ h1, h2, .menu {
 .section_2 {
     display : inline-block;
     background-color:#D4DAF7;
+    margin : 0 auto;
 }
 
 .beefLabel {
@@ -63,6 +65,7 @@ h1, h2, .menu {
 .section_3{
     display : inline-block;
     background-color: #E1D4F7;
+    margin : 0 auto;
 }
 
 .sushiLabel {
