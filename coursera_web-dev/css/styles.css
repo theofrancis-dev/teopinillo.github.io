@@ -19,7 +19,7 @@ body {
     width : 100%;
 }
 
-h1, h2, menu {
+h1, h2, .menu {
     text-align: center;
 }
 
