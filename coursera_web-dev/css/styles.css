@@ -32,7 +32,8 @@ h1,h2 {
 
 .labelBorder {
     border: 2px solid #1C6EA4;
-    border-radius: 9px;    
+    border-radius: 5px;  
+    padding : 5px;  
 }
 
 .section_1, .section_2, .section_3 {
