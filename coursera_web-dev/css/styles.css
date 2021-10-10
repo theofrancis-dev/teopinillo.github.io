@@ -30,46 +30,46 @@ h1, h2, .menu {
     padding: 5px;
 }
 
-.labelBorder {
+.foodLabel {
+    width : 150px;
+    margin-left : auto;
+    margin-right : 0;  
+    text-align: center;
+    font-weight: bold;
     border: 1px solid black;
     border-radius: 5px;  
-    padding : 5px;  
+    padding : 5px;
 }
 
 .section_1 {    
-    display : inline-block;
-    /*background-color: rgb(120, 236, 236);*/
+    display : inline-block;    
     background-color: #D4E4F7;
 }
 .chickenLabel {
     background-color: #FC7307;
     color : #236AB9;    
-    text-align: center;
-    font-weight: bold;
-}
+    }
 
 .section_2 {
     display : inline-block;
-    background-color: rgba(147, 246, 168, 0.966);
+    background-color:#D4DAF7;
 }
+
+.beefLabel {
+    background-color: #FBA90A;
+    color : #183BF0;
+}
+
 .section_3{
     display : inline-block;
-    background-color: rgba(147, 198, 246, 0.966);
+    background-color: #E1D4F7;
 }
-
-.foodLabel {
-    width : 150px;
-    margin-left : auto;
-    margin-right : 0;  
-}
-
 
 .sushiLabel {
-    background-color: #FCF3CF;
+    background-color: #FDDC22;
+    color : #5A18C9;
 }
-.beefLabel {
-    background-color: #CD6155;
-}
+
 /*
  -- Responsive wbesite constraints --
 Desktop :  >= 992px. 
