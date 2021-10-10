@@ -19,26 +19,34 @@ body {
     width : 100%;
 }
 
-h1,h2 {
+h1, h2, menu {
     text-align: center;
 }
 
 .border {
-    border: 2px solid #1C6EA4;
+    border:1px solid black;
     border-radius: 9px;
     margin : 5px;
     padding: 5px;
 }
 
 .labelBorder {
-    border: 2px solid #1C6EA4;
+    border: 1px solid black;
     border-radius: 5px;  
     padding : 5px;  
 }
 
-.section_1, .section_2, .section_3 {
-    /*position : relative;*/
+.section_1 {    
     display : inline-block;
+    background-color: rgb(120, 236, 236);
+}
+.section_2 {
+    display : inline-block;
+    background-color: rgba(147, 246, 168, 0.966);
+}
+.section_3{
+    display : inline-block;
+    background-color: rgba(147, 198, 246, 0.966);
 }
 
 .foodLabel {
@@ -63,27 +71,18 @@ Tablet :  >=768px and <=991px.
 Mobile : <= 767px.
 */
 @media (min-width : 992px){
-    body {
-        background-color: rgb(120, 236, 236);
-    }
     .col-lg-3 {
         width : 32%;
     }
 }
 
 @media (min-width : 768px ) and (max-width:991px){
-    body {
-        background-color: rgba(147, 246, 168, 0.966);
-    }
     .col-md-2 {
         width : 48%;
     }
 }
 
-@media (max-width : 767px){
-    body {
-        background-color: rgba(147, 198, 246, 0.966);
-    }
+@media (max-width : 767px){   
     .col-sm-1 {
         width : 98%;
     }
