@@ -65,6 +65,9 @@ Mobile : <= 767px.
     body {
         background-color: rgb(120, 236, 236);
     }
+    .col-lg-3 {
+        width : 33%;
+    }
 }
 
 @media (min-width : 768px ) and (max-width:991px){
