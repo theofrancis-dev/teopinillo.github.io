@@ -38,8 +38,15 @@ h1, h2, .menu {
 
 .section_1 {    
     display : inline-block;
-    background-color: rgb(120, 236, 236);
+    /*background-color: rgb(120, 236, 236);*/
+    background-color: #D4E4F7;
 }
+.chickenLabel {
+    background-color: #FC7307;
+    color : #236AB9;
+    font-size: large;
+}
+
 .section_2 {
     display : inline-block;
     background-color: rgba(147, 246, 168, 0.966);
@@ -55,9 +62,7 @@ h1, h2, .menu {
     margin-right : 0;  
 }
 
-.chickenLabel {
-    background-color: #F5B7B1;
-}
+
 .sushiLabel {
     background-color: #FCF3CF;
 }
