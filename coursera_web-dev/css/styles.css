@@ -12,6 +12,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.content {
+    width : 100%;
+}
+
 h1,h2 {
     text-align: center;
 }
@@ -22,3 +26,16 @@ h1,h2 {
     margin : 5px;
     padding: 5px;
 }
+
+.topRight {
+    position : absolute;
+    top : 5px;
+    right : 5px;
+    width: auto;
+}
+/*
+ -- Responsive wbesite constraints --
+Desktop :  >= 992px. 
+Tablet :  >=768px and <=991px. 
+Mobile : <= 767px.
+*/
