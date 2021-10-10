@@ -43,8 +43,9 @@ h1, h2, .menu {
 }
 .chickenLabel {
     background-color: #FC7307;
-    color : #236AB9;
-    font-size: large;
+    color : #236AB9;    
+    text-align: center;
+    font-weight: bold;
 }
 
 .section_2 {
