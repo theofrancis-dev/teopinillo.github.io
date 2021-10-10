@@ -33,9 +33,28 @@ h1,h2 {
     right : 5px;
     width: auto;
 }
+
+
 /*
  -- Responsive wbesite constraints --
 Desktop :  >= 992px. 
 Tablet :  >=768px and <=991px. 
 Mobile : <= 767px.
 */
+@media (min-width : 992px){
+    body {
+        background-color: rgb(120, 236, 236);
+    }
+}
+
+@media (min-width : 768px ) and (max-width:991px){
+    body {
+        background-color: rgba(147, 246, 168, 0.966);
+    }
+}
+
+@media (max-width : 767px){
+    body {
+        background-color: rgba(147, 198, 246, 0.966);
+    }
+}
