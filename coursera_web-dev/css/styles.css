@@ -74,10 +74,16 @@ Mobile : <= 767px.
     body {
         background-color: rgba(147, 246, 168, 0.966);
     }
+    .col-md-2 {
+        width : 50%;
+    }
 }
 
 @media (max-width : 767px){
     body {
         background-color: rgba(147, 198, 246, 0.966);
+    }
+    .col-sm-1 {
+        width : 33%;
     }
 }
