@@ -1,4 +1,10 @@
 /* Medium devices (landscape tablets, 768px and up) */
+@media  only screen and (max-width : 415px){   
+    .footer {
+        display : none;
+    }
+}
+
 @media (min-width: 768px) {
     div.hide-for-lg {
         display: none;
