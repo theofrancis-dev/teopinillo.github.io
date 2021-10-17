@@ -19,14 +19,17 @@
     }
 }
 
-body {
-    background-color: aquamarine;
-}
-
 .nav-link {
     text-align : center;
 }
 
-.our-menu {
-    text-align : center;
+.foodLabel {
+    width : 100%;
+    margin-left : 0;     
+    padding : 0;  
+}
+
+.section_1, .section_2, .section_3 {
+    padding:0;
+    display : inline;
 }
