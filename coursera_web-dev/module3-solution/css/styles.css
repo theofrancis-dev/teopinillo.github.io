@@ -1,0 +1,32 @@
+/* Medium devices (landscape tablets, 768px and up) */
+@media (min-width: 768px) {
+    div.hide-for-lg {
+        display: none;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media (min-width: 992px) {
+    div.hide-for-lg {
+        display: none;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    div.hide-for-lg {
+        display: none;
+    }
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.nav-link {
+    text-align : center;
+}
+
+.our-menu {
+    text-align : center;
+}
