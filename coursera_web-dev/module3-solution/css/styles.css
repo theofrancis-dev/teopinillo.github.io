@@ -52,7 +52,7 @@ h1, h2, .menu {
     text-align: center;
 }
 
-.border {
+.sectionBorder {
     border:1px solid black;
     border-radius: 9px;    
     margin:5px;    
