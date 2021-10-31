@@ -7,4 +7,6 @@ Projects, Courses Assignments
 
 [coursera web develoment assigment 4](https://teopinillo.github.io/coursera_web-dev/module4-solution/)
 
+[coursera web develoment assigment 5](https://teopinillo.github.io/coursera_web-dev/module5-solution/)
+
 [Weather App](https://teopinillo.github.io/weather)
