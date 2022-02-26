@@ -16,7 +16,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
 
 //=== PORT ====
-//const port = 3001; //only for running locally
+const DEV_PORT = 3001; //only for running locally
 const port = process.env.PORT;  //for deploying on heroku
 //=============
 
@@ -127,7 +127,7 @@ app.post('/subscribe', (req, res)=>{
         
 });
   
-app.listen(port, () => {
+app.listen(process.env.PORT || DEV_PORT, () => {
   console.log(`Example app listening on port ${port}`)
 })
 
