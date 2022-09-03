@@ -13,6 +13,9 @@ Projects, Courses Assignments
 
 [Udemy 2022 Web Development Bootcamp](https://teopinillo.github.io/udemy_2022_web_development_bootcamp/)
 
-[Newsletter Singup wiht nodejs, mailchimp. Deployed on Heroku](https://vast-tundra-65879.herokuapp.com/)
+[Newsletter Singup wiht nodejs & mailchimp. Deployed on Heroku](https://vast-tundra-65879.herokuapp.com/)
 
 [Developer Tools](https://teopinillo.github.io/dev_tools/)
+
+[Photography](https://teopinillo.github.io/photography/)
+
