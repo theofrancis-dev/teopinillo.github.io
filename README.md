@@ -18,5 +18,3 @@ Projects, Courses Assignments
 [Developer Tools](https://teopinillo.github.io/dev_tools/)
 
 [Photography](https://teopinillo.github.io/photography/)
-
-[]
